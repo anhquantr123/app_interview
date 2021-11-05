@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 
 const colorBorder = Color(0xFF3d69e3);
 const colorWhite = Color(0xFFFFFFFF);
+const colorBlack = Color(0xFF000000);
 const colorBackground = Color(0xFFe6e6e6);
 const colorIsSee = Color(0xFF19bf7d);
 
